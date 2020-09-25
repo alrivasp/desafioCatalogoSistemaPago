@@ -1,0 +1,2 @@
+class OneClick < ApplicationRecord
+end
